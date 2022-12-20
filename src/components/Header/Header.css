@@ -1,0 +1,9 @@
+.header {
+  text-align: left;
+  border-bottom: 1px solid rgb(197, 195, 195);
+}
+
+.header__title {
+  font-weight: 400;
+  color: red;
+}
