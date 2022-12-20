@@ -1,0 +1,24 @@
+.table {
+  border-spacing: 0;
+}
+
+.table__history {
+  color: rgba(114, 155, 173);
+  font-size: 24px;
+}
+
+.table__first-column {
+  width: 35%;
+}
+
+.table__content {
+  text-align: center;
+}
+
+table tr:nth-child(odd){
+	background: #fff;
+}
+
+table tr:nth-child(even){
+	background: #F7F7F7;
+}
